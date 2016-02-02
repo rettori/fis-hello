@@ -28,7 +28,7 @@
 <repository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
-          <url>http://10.0.1.10:8081/nexus/content/repositories/openshift-local</url>
+          <url>http://192.168.0.102:8081/nexus/content/repositories/openshift-local</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
@@ -79,7 +79,7 @@
         <pluginRepository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
-          <url>http://10.0.1.10:8081/nexus/content/repositories/openshift-local</url>
+          <url>http://192.168.0.102:8081/nexus/content/repositories/openshift-local</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
