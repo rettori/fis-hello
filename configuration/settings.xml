@@ -64,18 +64,7 @@
 
       </repositories>
       <pluginRepositories>
-        <pluginRepository>
-          <id>openshift.local</id>
-          <name>OpenShift Local</name>
-          <url>http://192.168.0.102:8081/nexus/content/repositories/openshift-local</url>
-          <snapshots>
-            <enabled>false</enabled>
-          </snapshots>
-          <releases>
-            <enabled>true</enabled>
-            <updatePolicy>never</updatePolicy>
-          </releases>
-        </pluginRepository>
+       
         <pluginRepository>
           <id>fusesource.m2</id>
           <name>FuseSource Community Release Repository</name>
